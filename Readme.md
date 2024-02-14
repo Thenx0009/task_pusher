@@ -9,7 +9,7 @@ ScreenShots
    [.exe File](https://github.com/Thenx0009/task_pusher/blob/master/dist/todo.exe)
 ## Overview
 
-Welcome to the Git Task Pusher CLI application by Sharpsailor ([AYUSH VERMA](https://www.linkedin.com/in/ayush-verma-33a260255/))! This command-line tool simplifies task management by providing a convenient interface to organize daily tasks and push them to a GitHub repository.
+Welcome to the Git Task Pusher CLI application by Thenx0009([AYUSH VERMA](https://www.linkedin.com/in/ayush-verma-33a260255/))! This command-line tool simplifies task management by providing a convenient interface to organize daily tasks and push them to a GitHub repository.
 
 ## Features
 
